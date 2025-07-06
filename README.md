@@ -26,6 +26,10 @@
 - 🔹 JSON 
 <img src="https://storage.tally.so/3f9bac6c-8fd5-40ae-a50b-096d362d2fe8/136443.png" width="10%">
 
+### 🔹 Pytest
+- 🔹 Pytest
+<img src="https://storage.tally.so/225a5e64-ebe2-49ea-8359-415c1ad93023/Pytest_logo.svg.png" width="10%">
+
 ---
 💡 *Этот репозиторий отражает мой прогресс и навыки, которые я изучил в рамках курса!*
 
